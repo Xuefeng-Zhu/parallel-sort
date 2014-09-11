@@ -1,4 +1,8 @@
-/** @file msort.c */
+/** 
+ * @file msort.c 
+ * Author: Xuefeng Zhu
+
+*/
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
